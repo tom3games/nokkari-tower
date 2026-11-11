@@ -1,0 +1,31 @@
+- snd/pop1.mp3: 3 Pop Sounds / wubitog / CC0
+- snd/pop2.mp3: 3 Pop Sounds / wubitog / CC0
+- snd/pop3.mp3: 3 Pop Sounds / wubitog / CC0
+- snd/thud1.mp3: 100 CC0 SFX #2 / rubberduck / CC0
+- snd/thud2.mp3: 100 CC0 SFX #2 / rubberduck / CC0
+- snd/thud3.mp3: 100 CC0 SFX #2 / rubberduck / CC0
+- snd/slime1.mp3: 40 CC0 water / splash / slime SFX / rubberduck / CC0
+- snd/slime2.mp3: 40 CC0 water / splash / slime SFX / rubberduck / CC0
+- snd/slime3.mp3: 40 CC0 water / splash / slime SFX / rubberduck / CC0
+- snd/sq1.mp3: Squeak toy sounds / bart / CC0
+- snd/sq2.mp3: Squeak toy sounds / bart / CC0
+- snd/sq3.mp3: Squeak toy sounds / bart / CC0
+- snd/fall1.mp3: 75 CC0 breaking / falling / hit sfx / rubberduck / CC0
+- snd/fall2.mp3: 75 CC0 breaking / falling / hit sfx / rubberduck / CC0
+- snd/splat1.mp3: 75 CC0 breaking / falling / hit sfx / rubberduck / CC0
+- snd/splat2.mp3: 75 CC0 breaking / falling / hit sfx / rubberduck / CC0
+- snd/swish1.mp3: Swishes Sound Pack / artisticdude / CC0
+- snd/swish2.mp3: Swishes Sound Pack / artisticdude / CC0
+- snd/coin.mp3: Coin Drop / Vinrax / CC0
+- snd/jgood.mp3: 85 Short music jingles / Kenney / CC0
+- snd/jmeh.mp3: 85 Short music jingles / Kenney / CC0
+- snd/jrare.mp3: 85 Short music jingles / Kenney / CC0
+- snd/jover.mp3: 85 Short music jingles / Kenney / CC0
+- snd/click.mp3: Interface Sounds / Kenney / CC0
+- snd/giggle.mp3: Group giggling / Nocturnal_Vanguard / CC0
+- snd/cloth.mp3: 50 RPG sound effects / Kenney / CC0
+- snd/amb_park.mp3: File:Réveil_des_oiseaux.ogg (5-23秒) / Joseph Sardin / CC0
+- snd/amb_wind.mp3: Wind / IgnasD / CC0
+- snd/flap.mp3: Dragon Flap / VishwaJai / CC0
+- snd/bgm_title.mp3: Bossa Shop Theme, in Low-Fi and HD / SpringySpringo / CC-BY 3.0,CC0
+- snd/bgm_play.mp3: Comedy Funny Background Song / Almitory / CC-BY 3.0,CC-BY 4.0,CC-BY-SA 3.0,CC-BY-SA 4.0,CC0,GPL 2.0,GPL 3.0,OGA-BY 3.0
