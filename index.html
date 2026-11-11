@@ -41,7 +41,7 @@ button{font-family:inherit;color:inherit;border:0;background:none;cursor:pointer
 #loadBar i{display:block;height:100%;width:0;background:var(--ink);transition:width .2s}
 
 /* タイトル */
-#vTitle .wrap{display:flex;flex-direction:column;padding:calc(20px + env(safe-area-inset-top)) 20px calc(14px + env(safe-area-inset-bottom))}
+#vTitle .wrap{display:flex;flex-direction:column;padding:calc(20px + env(safe-area-inset-top)) 20px calc(14px + calc(env(safe-area-inset-bottom) + var(--inapp-bot,0px)))}
 #tH{font-weight:800;font-size:min(14vw,62px,7.8svh);line-height:1.08;letter-spacing:.01em}
 #tH span{display:block}
 #tH .b{margin-left:.9em;width:fit-content}
@@ -72,14 +72,14 @@ button{font-family:inherit;color:inherit;border:0;background:none;cursor:pointer
 #pop.on{animation:pop 1.3s ease-out forwards}
 #pop.bad{color:var(--org)}
 @keyframes pop{0%{opacity:0;transform:translate(-50%,-30%)}12%{opacity:1;transform:translate(-50%,-50%)}78%{opacity:1}100%{opacity:0;transform:translate(-50%,-64%)}}
-#tut{position:absolute;left:0;right:0;bottom:calc(18px + env(safe-area-inset-bottom));z-index:6;display:flex;flex-direction:column;align-items:center;gap:6px;pointer-events:none;transition:opacity .4s}
+#tut{position:absolute;left:0;right:0;bottom:calc(18px + calc(env(safe-area-inset-bottom) + var(--inapp-bot,0px)));z-index:6;display:flex;flex-direction:column;align-items:center;gap:6px;pointer-events:none;transition:opacity .4s}
 #tut svg{width:120px;height:56px}
 #tut .hand{animation:swipe 1.6s ease-in-out infinite}
 @keyframes swipe{0%,100%{transform:translateX(-30px)}50%{transform:translateX(30px)}}
 #tut p{font-size:15px;font-weight:800;background:rgba(251,245,233,.92);padding:2px 10px;border-radius:8px}
 
 /* 結果 */
-#vEnd .wrap{display:flex;flex-direction:column;padding:calc(10px + env(safe-area-inset-top)) 14px calc(8px + env(safe-area-inset-bottom))}
+#vEnd .wrap{display:flex;flex-direction:column;padding:calc(10px + env(safe-area-inset-top)) 14px calc(8px + calc(env(safe-area-inset-bottom) + var(--inapp-bot,0px)))}
 #resBox{flex:1;min-height:0;display:flex;align-items:center;justify-content:center}
 #res{max-width:100%;max-height:100%;aspect-ratio:4/5;border:2.5px solid var(--ink);border-radius:6px;transform:rotate(-.8deg)}
 #res.in{animation:resIn .5s ease-out}
@@ -169,6 +169,6 @@ button{font-family:inherit;color:inherit;border:0;background:none;cursor:pointer
 <script src="atlas.js?v=1"></script>
 <script src="data.js?v=1"></script>
 <script src="game.js?v=1"></script>
-<script src="support.js?v=1" data-ja="プリン" data-en="a pudding"></script>
+<script src="support.js?v=2" data-ja="プリン" data-en="a pudding"></script>
 </body>
 </html>
